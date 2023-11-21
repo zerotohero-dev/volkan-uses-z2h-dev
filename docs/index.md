@@ -11,7 +11,7 @@ or I have used, liked, and find worth mentioning.
 * [zerotohero.dev](https://zerotohero.dev): My personal blog.
 * [dreamdiffusion.ai](https://dreamdiffusion.ai): This is a place where I share
   my generated art.
-* [z2h.dev](https://z2h.dev): It is an umbrella of static websites that I share
+* [z2h.dev](https://z2h.dev): It is an umbrella of static websites where I share
   stuff.
 * [My Twitter](https://twitter.com/linkibol)
 * [My Mastodon](https://hachyderm.io/@volkan)
@@ -23,9 +23,9 @@ or I have used, liked, and find worth mentioning.
 * [LTT Screwdriver](https://www.lttstore.com/products/screwdriver): A very
   high-quality ratcheting screwdriver.
 * [Fisher Space Pen - The Original Astronaut Pen](https://www.amazon.com/gp/product/B000WGD13U):
-  The one that NASA spent “millions” to design.
+  The one that NASA spent “*millions*” to design.
 * [KEPEAK Military Tactical Pen](https://www.amazon.com/gp/product/B07Q2GQW9D):
-  You can write on paper, and break thick glasses at the same time.
+  You can write on paper and break thick glasses simultaneously.
 * [Raspberry Pi](https://www.raspberrypi.org): I use this to create small
   projects.
 * [Tessel](https://tessel.io): Another IoT board that I used to use.
@@ -33,7 +33,7 @@ or I have used, liked, and find worth mentioning.
 ## Computer and Peripherals
 
 * [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64): My first computer.
-* [Mac Studio](https://www.apple.com/mac-studio/): I have a beefy mac to do my work,
+* [Mac Studio](https://www.apple.com/mac-studio/): I have a beefy Mac to do my work,
   content creation, gaming, and streaming.
 * [Mac Mini Intel 2018](https://www.apple.com/mac-mini/): I use this as a local
   build and test environment, and experimental server.
@@ -44,9 +44,9 @@ or I have used, liked, and find worth mentioning.
   you use this mouse. It’s very ergonomic too.
 * [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html):
   I use this keyboard mostly. It is silent, with a small form factor, and like **MX Master 3**,
-  it can connect to up-to 3 devices at the same time, which is very useful.
+  it can connect to up to 3 devices at the same time, which is very useful.
 * [Das Keyboard 4 Professional](https://www.daskeyboard.com): I use this keyboard
-  when I need to type a lot. It has Chery MX Blue keys, which makes it very clicky
+  when I need to type a lot. It has Chery MX Blue keys, making it very clicky
   and loud, but it’s very satisfying.
 * [CalDigit Thunderbolt Station](https://www.caldigit.com/thunderbolt-station-4/):
   Adds 18 more ports to your machine for extreme connectivity.
@@ -64,12 +64,12 @@ or I have used, liked, and find worth mentioning.
   I use this to protect my computer and other devices from power outages.
 * [Power Strip Tower and Surge Protector](https://www.amazon.com/gp/product/B08Y5ZQZ7J):
   I use this to power my devices.
-* [TBMax Cat 6 Ethernet Cable 50 ft - High Speed Flat Cat6 Computer LAN Wire](https://www.amazon.com/gp/product/B08L5VQJ2G):
+* [TBMax Cat 6 Ethernet Cable 50 ft - High-Speed Flat Cat6 Computer LAN Wire](https://www.amazon.com/gp/product/B08L5VQJ2G):
   I use this to connect my computer to the router. I don’t believe in Wi-Fi.
 * [MagicFiber Microfiber Cleaning Cloths, 13 PACK](https://www.amazon.com/gp/product/B0050R67U0):
   I use this to clean my screens and glasses.
 * [MagicFiber Extra Large Microfiber Cleaning Cloth](https://www.amazon.com/gp/product/B00JJG0YMG):
-  They said “bigger is better”.
+  They said: “*bigger is better*.”
 * [Keyspan by Tripp Lite PR-PRO3 Presentation Remote Pro Wireless w Laser](https://www.amazon.com/gp/product/B0000VYJRY):
   I have a cat.
 * [Rain Design 10032 mStand Laptop Stand, Silver](https://www.amazon.com/gp/product/B000OOYECC):
@@ -89,7 +89,7 @@ or I have used, liked, and find worth mentioning.
 * [Daisy Disk](https://daisydiskapp.com): I use this to find out what’s taking
   up space on my disk.
 * [Disk Drill](https://www.cleverfiles.com): I use this to recover deleted
-  files. I use **Backblaze**, but in rare cases I might not have backed up
+  files. I use **Backblaze**, but in rare cases, I might not have backed up
   the file, where Disk Drill comes to the rescue.
 
 ## Window Management
@@ -100,16 +100,16 @@ or I have used, liked, and find worth mentioning.
 
 * [Microsoft Office 365](https://www.microsoft.com/en-us/microsoft-365): I use
   this to create documents, spreadsheets, and presentations.
-* [Google Workspace](https://workspace.google.com): I use this mainly to 
+* [Google Workspace](https://workspace.google.com): I mainly use this to 
   host emails for my various domains.
 * [Grammarly](https://www.grammarly.com): I use this to check my grammar and
   spelling. It’s a lifesaver!
 * [Miro](https://miro.com): I use this to create diagrams and mind maps.
 * [World Clock Pro](https://apps.apple.com/us/app/world-clock-pro/id980670056):
-  I use this to keep track of timezones. It’s simple, super useful, does one
+  I use this to keep track of time zones. It’s simple, super useful, does one
   thing well. I love it!
 * [Wondershare Edraw Max](https://www.edrawsoft.com): I use this to create
-  diagrams, mindmaps, and technical drawings.
+  diagrams, mind maps, and technical drawings.
 * [Omnigraffle](https://www.omnigroup.com/omnigraffle): I use this as an
   alternative to **Edraw Max**.
 * [Mozilla Thunderbird](https://www.thunderbird.net): I use this to manage my
@@ -117,9 +117,9 @@ or I have used, liked, and find worth mentioning.
 
 ## Browsers
 
-I use several browsers, my main browser is **Safari**, it’s memory and battery
-efficient, and it is the default browser on macOS. People complain about its
-extension support, but I don’t use extensions that much, so it’s not a problem.
+I use several browsers; my main browser is **Safari**. It’s memory and 
+battery-efficient, the default browser on macOS. People complain about its 
+extension support, but I don’t use extensions much, so it’s not a problem.
 
 Here’s a list of browsers that I use occasionally:
 
@@ -171,18 +171,18 @@ order:
 * [Sublime Text](https://www.sublimetext.com): I use this when I need a lightweight
   code editor.
 * [Vim](https://www.vim.org): This is the editor that I use in the terminal. I
-  use **vim emulation** in any editor that supports it too.
+  use **Vim emulation** in any editor that supports it, too.
 * [Visual Studio Code](https://code.visualstudio.com): I use this as an alternative
   code editor.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea): I use this as my main IDE,
   along with other **JetBrains** IDEs.
-* [WebStorm](https://www.jetbrains.com/webstorm): Best IDE to do web-related
+* [WebStorm](https://www.jetbrains.com/webstorm): The best IDE to do web-related
   development.
-* [GoLand](https://www.jetbrains.com/go): Best IDE to do Go development.
-* [PyCharm](https://www.jetbrains.com/pycharm): Best IDE to do Python development.
-* [RubyMine](https://www.jetbrains.com/ruby): Best IDE to do Ruby development.
-* [CLion](https://www.jetbrains.com/clion): Best IDE to do C/C++ development.
-* [RustRover](https://www.jetbrains.com/rust): Best IDE to do Rust development.
+* [GoLand](https://www.jetbrains.com/go): The best IDE to do Go development.
+* [PyCharm](https://www.jetbrains.com/pycharm): The best IDE to do Python development.
+* [RubyMine](https://www.jetbrains.com/ruby): The best IDE to do Ruby development.
+* [CLion](https://www.jetbrains.com/clion): The best IDE to do C/C++ development.
+* [RustRover](https://www.jetbrains.com/rust): The best IDE to do Rust development.
 
 ## Embedded Code Editors
 
@@ -206,7 +206,7 @@ order:
 * [iTerm2](https://iterm2.com): I use this as my terminal emulator.
 * [Hyper](https://hyper.is): A configurable, JavaScript-based terminal emulator.
 * [Alacritty](https://github.com/alacritty/alacritty): A cross-platform, GPU-accelerated
-  terminal emulator. **Very** minimalistic. So much minimalistic that you’ll have
+  terminal emulator. **Very** minimalistic. It’s so minimalistic that you’ll have
   to know [tmux](https://tmux.z2h.dev) to be productive with it.
 
 ## Tunneling
@@ -217,7 +217,7 @@ order:
 ## Desktop Virtualization
 
 * [Parallels Desktop](https://www.parallels.com): I use this to run Windows
-  and Linux virtual machines on my mac. It’s the best desktop virtualization
+  and Linux virtual machines on my Mac. It’s the best desktop virtualization
   tool that you can run on a Mac.
 
 ## Payment Gateways
@@ -243,7 +243,7 @@ order:
 * [Figma](https://www.figma.com): This is an alternative design tool that
   I play with.
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/): I use this to read PDFs.
-* [Adobe Fonts](https://fonts.adobe.com): I use this to find fonts and use in
+* [Adobe Fonts](https://fonts.adobe.com): I use this to find fonts and use them in
   my web apps.
 
 ## Music
@@ -267,7 +267,7 @@ order:
 * [ScreenFlow](https://www.telestream.net/screenflow/): I use this to record
   my screen.
 * [ffmpeg](https://ffmpeg.org): A complete, cross-platform solution to record,
-  convert and stream audio and video.
+  convert, and stream audio and video.
 
 ## Audio Processing
 
@@ -323,14 +323,14 @@ order:
 
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme): BetterDisplay
   is a truly wonderful tool! It lets you convert your displays to fully scalable
-  screens, manage display configuration overrides, allows brightness and color
+  screens, manage display configuration overrides. It allows brightness and color
   control, provides XDR/HDR brightness upscaling. I use it as a mirror monitor
   to my 1080p monitor during streaming.
 * [Flip Clock](https://www.amazon.com/gp/product/B00HZDLNWO): I use this as a
   clock overlay on my stream. It’s especially useful when you need a countdown
   timer.
 * [Sorry No Sorry](https://sorrynotsorry.resn.co.nz/): I use this to drop 
-  quick notifications like “5min break; BRB” on my stream.
+  quick notifications like “*5min break; BRB*” on my stream.
 * [Wirecast](https://www.telestream.net/wirecast/): I use this to stream to
   multiple platforms at the same time.
 * [Farrago](https://rogueamoeba.com/farrago/): I use this to play sound effects
@@ -357,7 +357,7 @@ order:
 ## Stream Automation
 
 * [Stream Elements](https://streamelements.com): I use this to manage my
-  stream, add bots etc.
+  stream, add bots, etc.
 
 ## Stream Music
 
@@ -368,7 +368,7 @@ order:
 
 * [Mailgun](https://www.mailgun.com): I use this to send emails, especially when
   I want a reliable and programmatic interface.
-* [Mailchimp](https://mailchimp.com): I use this to send emails, when I don’t
+* [Mailchimp](https://mailchimp.com): I use this to send emails when I don’t
   want to deal with code.
 
 ## Desktop App Development
@@ -383,12 +383,12 @@ order:
 
 * [1Password](https://1password.com): I use this to store anything secret.
 * [Authy](https://authy.com): I use this to manage my 2FA tokens. The best
-  feature is that it syncs across devices so if I lose my phone, I can still
+  feature is that it syncs across devices, so if I lose my phone, I can still
   access my tokens.
 
 ## Task Management
 
-* [16bugs](https://16bugs.com): This site is available since the dawn of time.
+* [16bugs](https://16bugs.com): This site has been available since the dawn of time.
   When I need a simple task management tool, just for myself, /I use it.
 * [Agenda](https://agenda.com): I use this to keep track of my notes action items.
 * [Bugzilla](https://www.bugzilla.org): I use this to manage my bugs.
@@ -396,7 +396,7 @@ order:
   than a simple task list, but requires less structure than a full-blown
   enterprise software project.
 * [Confluence](https://www.atlassian.com/software/confluence): Some say
-  it’s a wiki; I think it’s a “write-only” database.
+  it’s a wiki; I think it’s a “*write-only*” database.
 * [Jira](https://www.atlassian.com/software/jira): I wish it doesn’t exist.
 * [Things](https://culturedcode.com/things/): I used to use it; it’s still 
   a great tool. I stopped using it in lieu of **Agenda**.
@@ -419,14 +419,14 @@ order:
 
 ## Knowledge Management
 
-Nowadays **Agenda** is my main tool to keep track of my notes, but I used other
+Nowadays, **Agenda** is my main tool for keeping track of my notes, but I use other
 tools to complement it too.
 
 * [Obsidian](https://obsidian.md): I use this to keep track of my notes.
 * [TiddlyWiki](https://tiddlywiki.com): A lesser-known tool; really useful.
 * [Scriviner](https://www.literatureandlatte.com/scrivener/overview): I use
   this to write long-form, structured content, like articles, books, etc.
-* [reMarkable](https://remarkable.com): I use this to take notes, and to read
+* [reMarkable](https://remarkable.com): I use this to take notes and to read
   books. Its tactile feel is almost—but not exactly—like writing on paper.
 * [DEVONThink](https://www.devontechnologies.com/apps/devonthink): I use this
   to store my documents, notes, and other files. It has an amazing full-text
@@ -515,7 +515,7 @@ lines and arrows.
 * [`http-server`](https://www.npmjs.com/package/http-server): I use this to
   serve static files locally. Fast, easy to run. Gets the job done.
 * [Apache HTTP Server](https://httpd.apache.org): I use this as a static file
-  server too.
+  server, too.
 * [NGINX](https://nginx.org): I use this as a reverse proxy, and as a static
   file server.
 * [HAProxy](https://www.haproxy.org): I use this as an alternative to NGINX. 
@@ -591,7 +591,7 @@ lines and arrows.
 ## Source Control
 
 * [Git](https://git-scm.com): I use this to manage my source code.
-* [GitHub](https://github.com): Like twitter, but for source code.
+* [GitHub](https://github.com): Like Twitter, but for source code.
 * [Artifact Hub](https://artifacthub.io): I use this to find and store Helm charts.
  [Gitlab](https://gitlab.com): Similar to **GitHub**.
 
@@ -602,12 +602,12 @@ lines and arrows.
   CSS framework.
 * [Tailwind UI](https://tailwindui.com): I use this when I need a UI kit for
   **Tailwind**.
-* [Bootstrap](https://getbootstrap.com): It’s a reliable CSS framework too.
+* [Bootstrap](https://getbootstrap.com): It’s a reliable CSS framework, too.
 * [Foundation](https://get.foundation): I use this when I need a CSS framework
   that’s not Bootstrap.
-* [BEM](https://getbem.com): I use this methodology, when I need to write CSS 
+* [BEM](https://getbem.com): I use this methodology when I need to write CSS 
   from scratch.
-* [SMACSS](http://smacss.com): I use this methodology, when I have a larger
+* [SMACSS](http://smacss.com): I use this methodology when I have a larger
   CSS codebase that needs to be maintained.
 * [Styled Components](https://styled-components.com): I use this when I need
   to write CSS in JavaScript.
@@ -623,7 +623,7 @@ lines and arrows.
 * [Transmit](https://panic.com/transmit/): I use this to transfer files around.
 * [The Unarchiver](https://theunarchiver.com): I use this to extract compressed
   files.
-* [Path Finder](https://cocoatech.com): It’s a good file manager too, but I 
+* [Path Finder](https://cocoatech.com): It’s a good file manager, too, but I 
   find it a bit bloated.
 
 ## System Diagnostics
@@ -636,7 +636,7 @@ lines and arrows.
 * [Audible](https://www.audible.com): I use this to listen to books.
 * [Kindle](https://read.amazon.com/kindle-library): I use this to read books.
 
-## “the Cloud”
+## “*the Cloud*”
 
 * [AWS](https://aws.amazon.com): Yes, it’s expensive compared to the
   competition. Yes, it’s complicated. Yet, it’s a cloud that I can count on.
@@ -702,11 +702,11 @@ lines and arrows.
 
 ## Linux Distributions
 
-My “go to” distro is **Ubuntu**, stable, reliable, and easy to use. I switch
+My “*go-to*” distro is **Ubuntu**: Stable, reliable, and easy to use. I switch
 between distros from time to time, to see what’s new, and to learn new things
 though.
 
-* [Ubuntu](https://ubuntu.com): My “go to” distro.
+* [Ubuntu](https://ubuntu.com): My “*go-to*” distro.
 * [Fedora](https://getfedora.org): I use this when I need to use a RedHat-based
   distro.
 * [Arch Linux](https://archlinux.org): I use this when I need to torture myself.
@@ -744,7 +744,7 @@ I prefer **Parcel** if I need a zero-config transpiler, and use
 
 ## Unit Testing
 
-These tools are dime a dozen too, and they mostly do similar things.
+These tools are dime a dozen, too, and they mostly do similar things.
 I pick whichever is available and works for the project at hand.
 
 * [Cucumber](https://cucumber.io): I use this to write BDD tests.
@@ -833,6 +833,6 @@ them are even extinct (and I provided web archive links for them instead).
 * [Java Ranch Big Moose Saloon](https://coderanch.com): I used to visit this
   site to learn about Java development.
 * [java.sun.com](https://web.archive.org/web/20230319084116/https://java.sun.com/):
-  Once upon a time, Java was free as in free beer.
+  Once upon a time, Java was free, as in “*free beer*”.
 * [astalavista.box.sk](https://web.archive.org/web/20230319084116/http://astalavista.box.sk/):
   I used to visit this site to learn about security.
