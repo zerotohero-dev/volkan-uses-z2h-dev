@@ -35,8 +35,10 @@ or I have used, liked, and find worth mentioning.
 * [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64): My first computer.
 * [Mac Studio](https://www.apple.com/mac-studio/): I have a beefy mac to do my work,
   content creation, gaming, and streaming.
-* [Intel Nuc](https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html):
-  I use this as a home server.
+* [Mac Mini Intel 2018](https://www.apple.com/mac-mini/): I use this as a local
+  build and test environment, and experimental server.
+* [Intel Nuc](https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html): I use this for other random experimentation. It has 
+  **Ubuntu** installed.
 * [Logitech MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006557.html):
   The fastest scroll ever; you’ll never realize how important scrolling is before
   you use this mouse. It’s very ergonomic too.
