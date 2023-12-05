@@ -18,7 +18,7 @@ or I have used, liked, and find worth mentioning.
 * [My GitHub](https://github.com/v0lkan)
 * [My Twitch](https://twitch.tv/ZeroToHeroDev)
 
-## Gadgets
+## Gadgets and Gizmos
 
 * [LTT Screwdriver](https://www.lttstore.com/products/screwdriver): A very
   high-quality ratcheting screwdriver.
@@ -29,6 +29,10 @@ or I have used, liked, and find worth mentioning.
 * [Raspberry Pi](https://www.raspberrypi.org): I use this to create small
   projects.
 * [Tessel](https://tessel.io): Another IoT board that I used to use.
+* [MagicFiber Extra Large Microfiber Cleaning Cloth](https://www.amazon.com/gp/product/B0050R66X8):
+  I have glasses, they need cleaning. MagicFiber is the best.
+* [Zeiss Lens Cleaning Spray](https://www.amazon.com/ZEISS-Lens-Cleaning-Spray-2x120ml/dp/B07339STBJ):
+  When my vision is at stake, I use the best.
 
 ## Computer and Peripherals
 
@@ -39,7 +43,7 @@ or I have used, liked, and find worth mentioning.
   build and test environment, and experimental server.
 * [Intel Nuc](https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html): I use this for other random experimentation. It has 
   **Ubuntu** installed.
-* [Logitech MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006557.html):
+* [Logitech MX Master 3S](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006557.html):
   The fastest scroll ever; you’ll never realize how important scrolling is before
   you use this mouse. It’s very ergonomic too.
 * [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.html):
@@ -56,8 +60,12 @@ or I have used, liked, and find worth mentioning.
   It’s very ergonomic; it’s a fraction of the price of **MX Master 3**, and it’s 
   amazingly precise and comfortable. If you need an ergonomic mouse, this is the one.
 
-## Home Office
 
+## Home Office / Office
+
+* [MP Trio Max](https://www.mobilepixels.us/products/trio): This gives two additional
+  monitors to my laptop. It’s a great tool when you need more screen real estate.
+  And it’s very portable too, which makes it a great fit for office and travel.
 * [Crank Adjustable Height Rolling Standing Desk](https://www.amazon.com/dp/B09SHLNX1J):
   I use this as my desk. It’s very sturdy, and it’s easy to adjust the height.
 * [CyberPower Intelligent LCD UPS System](https://www.amazon.com/gp/product/B09CZFK33K):
@@ -295,6 +303,15 @@ order:
 * [Audio-Technica ATH-M50xBL Professional Studio Monitor
   Headphones](https://www.amazon.com/gp/product/B00HVLUSGM):
   Great audio quality. Very comfy on the ears.
+* [Sennheiser Consumer Audio Momentum 4 Wireless Headphones](https://www.amazon.com/gp/product/B0B6GHW1SX):
+  I use this to listen to music when I am not at my desk, I also use it during
+  live streams because Airpods have their own mind and pair with random devices
+  when you least expect it, which is not good when you are streaming. In addition
+  it’s perfect for **Office** and **Home Office** when you want to get into the
+  zone.
+* [Apple AirPods Pro](https://www.amazon.com/gp/product/B07ZPC9QD4): I use this
+  during meetings and conferences. Because of its small form factor, it does
+  not look as goofy as other over-the-ear headphones.
 * [Shure SM7B](https://www.shure.com/en-US/products/microphones/sm7b): I use
   this to record my voice. It’s a great microphone, but it requires a lot of
   gain, so you need a good preamp to use it.
@@ -694,6 +711,9 @@ lines and arrows.
   my policies in Kubernetes.
 
 ## AI/GenAI/ML/LLM/etc Tools
+
+I have “*pro*” subscriptions to all of these tools. I use them for 
+all kinds of research and content creation.
 
 * [ChatGPT](https://chat.openai.com): I use ChatGPT as my sidekick when I need
   to discuss anything.
